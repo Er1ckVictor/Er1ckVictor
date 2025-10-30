@@ -9,7 +9,7 @@
 ---
 
 ### 📊 Estatísticas do GitHub  
-![Erick Victor GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=radical)
+![Erick Victor GitHub Stats](https://github-readme-stats.vercel.app/api?username=Er1ckVictor&show_icons=true&theme=radical)
 
 ---
 
