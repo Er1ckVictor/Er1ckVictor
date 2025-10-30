@@ -33,6 +33,4 @@ Busco constantemente aprimorar minhas habilidades técnicas e criativas — unin
 ---
 
 ### 📫 Contato  
-📧 **Email:** erickvictor.dev@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/seuperfil](#)  
-🌐 **Portfólio:** [seusite.com](#)
+📧 **Email:** erickvictor.dev@gmail.com 
