@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Erick Victor  
 
-<!--
-**Er1ckVictor/Er1ckVictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor de Sistemas e **Web Designer** na [Noovi - Betta Global Partner](https://noovi.com.br)  
+🚀 Crio e estruturo códigos com foco em **desenvolvimento de sistemas avançados**  
+🧠 Tenho **19 anos** e estou em constante evolução na área tech  
+📚 Estudando **JavaScript** e aprofundando meus conhecimentos intermediários na linguagem  
+📈 Iniciante no universo do **Marketing Digital**, explorando estratégias e automações  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Estatísticas do GitHub  
+![Erick Victor GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuarioGitHub&show_icons=true&theme=radical)
+
+---
+
+### 🧰 Tecnologias que estou estudando e utilizando  
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" />
+</div>
+
+---
+
+### 💬 Sobre mim  
+Sou movido por desafios e pela vontade de transformar ideias em experiências digitais únicas.  
+Busco constantemente aprimorar minhas habilidades técnicas e criativas — unindo **design**, **programação** e **estratégia digital**.
+
+---
+
+### 📫 Contato  
+📧 **Email:** erickvictor.dev@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/seuperfil](#)  
+🌐 **Portfólio:** [seusite.com](#)
